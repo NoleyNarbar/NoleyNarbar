@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NoleyNarbar
-- 👀 I’m interested in Data Science, Software Engineering, NLP, Webscraping 
-- 🌱 I’m currently learning Python, R and SQL
-- 💞️ I’m looking to collaborate on Python projects
-- 📫 How to reach me: message me here!
+- 👋 Hi, I’m Nolan
+- 👀 I’m interested in Mobile, Frontend,  and Backend development 
+- 🌱 I’m currently working in React, React Native, JS, Node, etc.
+- 💞️ I’d love to collaborate
+- 📫 How to reach me: nolan.geiger@gmail.com!
 
 <!---
 NoleyNarbar/NoleyNarbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
